@@ -1,7 +1,8 @@
 #!/bin/bash
 
-function myfunc {
+function myfunc
+{
     echo "hello $1"
 }
 
-myfunc "John"
+myfunc "Busola"
