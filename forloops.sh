@@ -2,7 +2,7 @@
 # This a FOR loop example which allows the code to run through the range provided which is between 1 to 10.
 
 # The code below displays the range
-for n in {1..10}
+for n in {1..15}
 do
    echo $n
    sleep 1
