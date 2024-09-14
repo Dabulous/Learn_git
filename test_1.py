@@ -12,7 +12,7 @@ class Python_Switch:
         return "Feb"
 
     def case_3(self):
-        return "Mar"
+        return "October, my birthday"
 
 
 my_switch = Python_Switch()
